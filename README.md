@@ -17,7 +17,7 @@ A simple and elegant Tour UI built using **React** and **Material UI**. This pro
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png)
+<img width="1917" height="909" alt="Image" src="https://github.com/user-attachments/assets/c657ed07-3acd-4d56-b405-98936fcd7922" />
 
 ## 📦 Installation
 
