@@ -1,12 +1,25 @@
-# React + Vite
+# 🌍 TourUI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Tour UI built using **React** and **Material UI**. This project displays travel destinations in a card-based layout with smooth design and responsiveness.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧭 Clean and modern user interface
+- 🖼️ Card layout for tour listings
+- 🎨 Material UI components
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/) – Frontend JavaScript library
+- [Material UI](https://mui.com/) – React components for faster and easier UI development
+
+## 📸 Preview
+
+![Screenshot](screenshot.png)
+
+## 📦 Installation
+
+npm install
+npm start
